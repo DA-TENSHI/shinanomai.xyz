@@ -2,14 +2,14 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
 <squad nick="DUKJE">
-	<name>繧ｷ繝翫ヮ繝槭う</name>
-	<email></email>
+	<name>SHINANO Fire Team</name>
+	<email>admin@shinanomai.xyz</email>
 	<web>shinanomai.xyz</web>
 	<picture>logo.paa</picture>
-	<title>DUKJE</title>
+	<title>SHINANO Fire Team</title>
 	<member id="76561199548224377" nick="SHINANOMAI">
 		<name>SHINANOMAI</name>
-		<email></email>
+		<email>admin@shinanomai.xyz</email>
 		<icq></icq>
 		<remark></remark>
 	</member>

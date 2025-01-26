@@ -1,0 +1,55 @@
+body {
+  font-family:  MS PMincho, sans-serif;
+  background-color: #121212;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0; 
+}
+.center {
+  text-align: center;
+}
+.parent {
+  display: flex;
+  justify-content: space-around;
+}
+
+.bunner {
+  display: flex;
+  justify-content: center;
+}
+.info {
+  width:400px; height:800px;
+  margin:0px; padding:10px; border:1px solid black;
+  background-color:black;
+}
+a {
+  color:  #F8A900;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+button {
+  background-color: #FFFFFF;
+  color: rgb(0, 0, 0);
+  border: none;
+  line-height: 2;
+  padding: 0px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+table,
+td {
+  border: 1px solid #FFFFFF;
+}
+thead,
+tfoot {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+/*
+Â©Copyright WAKASAGISYSTEM 2023~2024 
+*/

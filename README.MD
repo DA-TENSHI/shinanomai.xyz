@@ -1,0 +1,1 @@
+# shinanomai.xyz

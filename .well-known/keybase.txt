@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/hibike
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shinanomai.xyz
+  * I am hibike (https://keybase.io/hibike) on keybase.
+  * I have a public key with fingerprint 109B 43C9 6548 4C6F 4C02  6F03 953E E9FA 6EA1 9708
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018c9ad6a78f6f3bc38aa66e90cfc398431d6bbebff48f05f2b8155408d39c9caa0a",
+      "fingerprint": "109b43c965484c6f4c026f03953ee9fa6ea19708",
+      "host": "keybase.io",
+      "key_id": "953ee9fa6ea19708",
+      "kid": "01018c9ad6a78f6f3bc38aa66e90cfc398431d6bbebff48f05f2b8155408d39c9caa0a",
+      "uid": "c4c8efc9c020f47e1e6b570e37a38b19",
+      "username": "hibike"
+    },
+    "merkle_root": {
+      "ctime": 1738056973,
+      "hash_meta": "73ec00026f6eaf372a782fa2fbf155ba2f220ff95a9bae4a20c3ee1fee24239a",
+      "seqno": 26496993
+    },
+    "revoke": {
+      "sig_ids": [
+        "6020ac68e4982bf94bc4e1626f2829b46df28882541774c1b7a3add0b22643e00f"
+      ]
+    },
+    "service": {
+      "hostname": "shinanomai.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1738057059,
+  "expire_in": 157680000,
+  "prev": "6d94a4c92a21c4d35b955e1e04843840fc15bd51ce1a3d8b67ebd531f304a680",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMLCAnicrVNtiFVFGL7bZm43lSBoCdewI7SB2zJfZ87MdXOViII+XFEyNbvNzJm5
+e7p3z7mec3bXm+5CFFKKUS2FURIhXnQpdTHZPghrd3+sRsUSSWBfqGER5Rr6w9iy
+OYsRQT/7NR887/M+z/POTMxvzOUbPl/Y9BKafnW64ZOx/t5cafc+tdWRkV9zClud
+sp5ddMXXSVosB75TcAAEkCkufCo8ZqjBUmEmBKWaA2UU5oxg6FMptTSGMANcgySD
+rksA8zFXXAkBhNPmmCAs6bgaB2FqaSHgkmDFqUsYUdQQBRA1AHMXa82NoFpA7gFm
+C7ujJKuw4qRIdHsQ2Tt7KM7K+w/8/6y7d5ZOEcW0sbcAAUM8DTWVrgc09gRmEvIM
+mOg4FD3aorsDGZS1M9Dm9Oi4XNHFOIrSLFqVBhkAepgBl3IPW3si6S726FTYOg9r
+BUCWhPVjsIesdmQEMtJYZdJukG1vuCu4FJoIBJS1D43WiCDMM7mJ3hxGTgFRwinn
+2EqIdV9kxdjuSVCyqSVOYaNDrQ+hKNOEMyQNJ1IRDantjBiyo6G+3TCGXAI9jygo
+rU/h+0Aiy4w1AMbZNJB1i/sCNUuejemq/aQ7CEUY9YigfUvtSSuqGkdppKJKFk2a
+VpNCFk1aq2bgfi2LV2mKMgh9+0xsRZ+OkyAKbVQW+a/UPODyNkdvqQaxLgYZwvUo
+s6mBrI/us5TU50QQxZFAUBEfu5K7rh0ZsG8NMwKMgq70Xag0FNhnknraHjE0GBBh
+uf6JEUKrU5QyT0EpFGlvbKc69tGj1+Ya8rnr5lyT/Z9c/vob//5VxxfMvbLqlod+
+/WCjvw0Mj4B3/lzeWP126nBn+YfL22967a0dtS/3NE8/kD/aGH7l7mrY3X88Pnzp
+1OaP554fP3Vx5IbW+tr8mnuX7I2XvdGx7W1/cTB67sHbmzpmho+8u2v8G9ra9fuJ
+Q69P/bhg/qcrVq4qrWu/sLfxzpUH8C9s6OzFM9/L8aGj/ecXD59+eD+b2dB8pavw
+/qWfHllTH6xP3NXy2xcHj3X9PNO5dGDd4Au3Hrv75YNPn77w+MnnB5+63DHpTt3W
+skitrmwamfzumXl/rJ28f/uL9Q9Hl+98rKlzxZzOiUXrN5DKc60L6bknxnYcOvPe
+zq6bT94xdODr+ihraV5SO/HZ0nmrn33lnqbW+5adffMvhVuFkQ==
+=rDfY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hibike
+
+==================================================================

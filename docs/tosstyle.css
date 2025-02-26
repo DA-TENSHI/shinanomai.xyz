@@ -63,6 +63,13 @@ tfoot {
   background-color: #FFFFFF;
   color: #000000;
 }
+
+.indent{
+  padding-left: 2.7em;
+}
+.indentdual{
+  padding-left: 5.4em;
+}
 /*
 Â©Copyright WAKASAGISYSTEM 2023~2024 
 */

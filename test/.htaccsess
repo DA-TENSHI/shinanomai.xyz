@@ -1,0 +1,3 @@
+<Files ~ "^logo\.paa$">
+    Deny from all
+  </Files>

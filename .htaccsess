@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule (http://shinanomai.xyz) $ (https://shinanomai.xyz) [R=301,L]
+</IfModule>

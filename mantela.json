@@ -1,0 +1,47 @@
+{
+    "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+    "version": "0.1.0",
+    "aboutMe": {
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "name": "AmagasakiSHINANO",
+      "preferredPrefix": [
+        "661"
+      ],
+      "sipUsername": "SIP-TRUNK-910A281D",
+      "sipPassword": "Vnp4cE1NRmNKSkE9",
+      "sipServer": ""
+    },
+    "extensions": [
+      {
+        "name": "Windows10",
+        "extension": "2000",
+        "type": "other",
+        "identifier": "BFpTVy6kmS"
+      },
+      {
+        "name": "Moto g24",
+        "extension": "2001",
+        "type": "smartphone",
+        "identifier": "1Y2QZY0I"
+      },
+      {
+        "name": "2025",
+        "extension": "2025",
+        "type": "reserved",
+        "identifier": "5ULWH1NB"
+      },
+      {
+        "name": "test",
+        "extension": "1234",
+        "type": "music",
+        "identifier": "HYPDRRGN"
+      },
+      {
+        "name": "SONY Experia Z5",
+        "extension": "2003",
+        "type": "smartphone",
+        "identifier": "FWSZCZAA"
+      }
+    ],
+    "providers": []
+  }

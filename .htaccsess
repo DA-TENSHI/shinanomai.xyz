@@ -62,4 +62,4 @@ RewriteRule (http://shinanomai.xyz) $ (https://shinanomai.xyz) [R=301,L]
         </RequireAll>
       </IfModule>
     </IfModule>
-    
+     'Access-Control-Allow-Origin': '*',

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
-<squad nick="ATI RADEON">
-	<name>ATI RADEON</name>
+<squad nick="FOMA">
+	<name>FOMA</name>
 	<email>admin@shinanomai.xyz</email>
 	<web>shinanomai.xyz</web>
 	<picture>logo.paa</picture>
-	<title>ATI RADEON</title>
+	<title>FOMA</title>
 	<member id="76561199548224377" nick="SHINANOMAI">
 		<name>SHINANOMAI</name>
 		<email>admin@shinanomai.xyz</email>

@@ -7,4 +7,4 @@ console.log("くそあつい");
 console.log("Javascript.js更新日");
 console.log("皇紀2684年3月13日木曜日");
 console.log("Whitten by SHINANOMAI");
-console.log("CopyRight© 2022-2025(皇紀2682-2685) SHINANOSKEY All rights reserved.");
+console.log("© 2025 SHINANOMAI このコンテンツは、別記なき場合にはCC-BY 4.0にて利用可能です。");

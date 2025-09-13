@@ -1,0 +1,25 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: MS PMincho, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff;
+}
+h1 {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 0.2em;
+}
+a {
+  color:  #F8A900;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+address {
+    margin-left: 1em;
+}
+p {
+    padding: 0 1em; text-indent: 1em;
+}
